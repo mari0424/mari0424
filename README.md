@@ -1,12 +1,15 @@
-Boa vinda ao meu perfil:
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil 💙
 
-<!---
-mari0424/mari0424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Maria
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me dsenvolveno na linguagem JavaScript
+- Utilizo esse espeço para minha organiação e compartilhamento dos meus projetos desenvolvidos
+  
+- ### Vocẽ entra  em contato comigo 📪
+
+maria.moreira.rocha@escola.pr.gov.br
+
+@Maria
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
